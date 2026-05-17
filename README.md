@@ -20,5 +20,5 @@ This project analyzes IPL match data to identify:
 
 ## Project Files
 - Jupyter Notebook (.ipynb)
-- Visualizations (,docx)
+- Visualizations (.docx)
 - Data Analysis
